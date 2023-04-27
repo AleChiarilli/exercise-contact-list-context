@@ -20,10 +20,12 @@ Do not clone this repository because we are going to be using a different templa
 
 We recommend opening the `react boilerplate` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
 
-This is the repository you need to open or clone:
+On previous lessons we use to open the template: https://github.com/4GeeksAcademy/react-hello
+
+But in this particularly, we are going to use a template with the structure and a few tools already done. This way, in our practice hours, we only need to focus in functionality and new concepts. The template is:
 
 ```
-https://github.com/4GeeksAcademy/react-hello
+https://github.com/breatheco-de/exercise-contact-list-context
 ```
 
 **👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
